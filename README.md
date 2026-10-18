@@ -25,7 +25,6 @@ git checkout dev
 | **1.3** | Generate a interrupter at 20kHz Frequency |
 | **1.4** | Configure PINS and the Analog-Digital-Converter (ADC). Then Using the Above, get current signal value on each interrupt and blink LED on or off |
 | **1.5** | Generate a PWM Signal and observe in Oscilloscope |
-| **2.1** | Generate a PWM Signal and observe in Oscilloscope |
-| **2.2** | Generate a PWM Signal and observe in Oscilloscope |
-| **2.3** | Generate a PWM Signal and observe in Oscilloscope |
-| **2.4** | Generate a PWM Signal and observe in Oscilloscope |
+| **2.1** | Establish a current flow through motor with a transistor on/off system **below** Motor |
+| **2.2** | Establish a current flow through motor with a transistor on/off system **above** Motor |
+| **2.3** | Using two transistors, one above and one below (to allow spin in both directions) to operate Motor with DC Current |
