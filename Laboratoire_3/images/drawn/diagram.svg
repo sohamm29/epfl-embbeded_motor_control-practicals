@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="diagram.svg"
+   inkscape:export-filename="diagram.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.4204826"
+     inkscape:cx="478.02215"
+     inkscape:cy="363.86761"
+     inkscape:window-width="1280"
+     inkscape:window-height="650"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker13"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path13" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker11"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path11" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker13-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path13-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker11-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path11-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker13-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path13-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker13-3-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path13-2-8" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#121411;fill-opacity:0;stroke:#020100;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="54.840759"
+       height="21.491186"
+       x="26.952423"
+       y="99.527443" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;fill:#121411;fill-opacity:1;stroke:#020100;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="53.46154"
+       y="106.92202"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#121411;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="53.46154"
+         y="106.92202">Potentiometer</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#121411;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="53.46154"
+         y="115.74147"
+         id="tspan4">resultats[0]</tspan></text>
+    <g
+       id="g7"
+       transform="translate(-62.620619,-11.18669)">
+      <text
+         xml:space="preserve"
+         style="font-size:7.05556px;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;fill:#121411;fill-opacity:1;stroke:#020100;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+         x="149.91869"
+         y="93.062653"
+         id="text3-5"><tspan
+           sodipodi:role="line"
+           style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#121411;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           x="149.91869"
+           y="93.062653"
+           id="tspan4-6">taux =</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:7.05556px;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;text-align:center;text-anchor:middle;fill:#121411;fill-opacity:1;stroke:#020100;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+         x="191.10085"
+         y="88.097717"
+         id="text5"><tspan
+           sodipodi:role="line"
+           id="tspan5"
+           style="font-size:7.05556px;stroke-width:0"
+           x="191.10085"
+           y="88.097717">(2048 - resultats)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:7.05556px;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;text-align:center;text-anchor:middle;fill:#121411;fill-opacity:1;stroke:#020100;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+         x="236.72935"
+         y="94.028046"
+         id="text6"><tspan
+           sodipodi:role="line"
+           id="tspan6"
+           style="stroke-width:0"
+           x="236.72935"
+           y="94.028046">*PERIPWM</tspan></text>
+      <path
+         style="fill:#121411;fill-opacity:1;stroke:#020100;stroke-width:0.795;stroke-dasharray:none;stroke-opacity:1"
+         d="m 162.40236,90.989812 h 56.95206"
+         id="path6" />
+      <text
+         xml:space="preserve"
+         style="font-size:7.05556px;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#121411;fill-opacity:1;stroke:#020100;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+         x="189.48599"
+         y="100.18885"
+         id="text6-6"><tspan
+           sodipodi:role="line"
+           id="tspan6-5"
+           style="font-size:7.05556px;baseline-shift:baseline;stroke-width:0"
+           x="189.48599"
+           y="100.18885">2<tspan
+   style="font-size:7.05556px;baseline-shift:super"
+   id="tspan7">11</tspan></tspan></text>
+    </g>
+    <rect
+       style="fill:#121411;fill-opacity:0;stroke:#020100;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-4"
+       width="119.31985"
+       height="23.234018"
+       x="73.8694"
+       y="69.6306" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;fill:#121411;fill-opacity:1;stroke:#020100;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="88.094337"
+       y="139.81674"
+       id="text3-5-8"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#121411;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="88.094337"
+         y="139.81674"
+         id="tspan4-6-6">taux =</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;text-align:center;text-anchor:middle;fill:#121411;fill-opacity:1;stroke:#020100;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="129.27649"
+       y="134.85181"
+       id="text5-2"><tspan
+         sodipodi:role="line"
+         id="tspan5-7"
+         style="font-size:7.05556px;stroke-width:0"
+         x="129.27649"
+         y="134.85181">(resultats - 2048)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;text-align:center;text-anchor:middle;fill:#121411;fill-opacity:1;stroke:#020100;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="174.905"
+       y="140.78214"
+       id="text6-1"><tspan
+         sodipodi:role="line"
+         id="tspan6-0"
+         style="stroke-width:0"
+         x="174.905"
+         y="140.78214">*PERIPWM</tspan></text>
+    <path
+       style="fill:#121411;fill-opacity:1;stroke:#020100;stroke-width:0.795;stroke-dasharray:none;stroke-opacity:1"
+       d="m 100.57801,137.74391 h 56.95206"
+       id="path6-2" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#121411;fill-opacity:1;stroke:#020100;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="127.66164"
+       y="146.94295"
+       id="text6-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan6-5-8"
+         style="font-size:7.05556px;baseline-shift:baseline;stroke-width:0"
+         x="127.66164"
+         y="146.94295">2<tspan
+   style="font-size:7.05556px;baseline-shift:super"
+   id="tspan7-3">11</tspan></tspan></text>
+    <rect
+       style="fill:#121411;fill-opacity:0;stroke:#020100;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-4-6"
+       width="119.31985"
+       height="23.234018"
+       x="74.665665"
+       y="127.57138" />
+    <path
+       style="fill:#121411;fill-opacity:0;stroke:#020100;stroke-width:1.2;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
+       d="m 50.017348,99.459442 c 0,0 1.064915,-14.867251 19.307372,-17.091942"
+       id="path7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#121411;fill-opacity:0;stroke:#020100;stroke-width:1.2;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-2)"
+       d="m 50.490238,121.08323 c 0,0 1.064915,14.86725 19.307372,17.09194"
+       id="path7-0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#121411;fill-opacity:0;stroke:#020100;stroke-width:1.09048;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-5"
+       width="65.426109"
+       height="21.421585"
+       x="202.69539"
+       y="58.355595" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;fill:#121411;fill-opacity:1;stroke:#020100;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="235.43204"
+       y="66.496246"
+       id="text3-54"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#121411;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="235.43204"
+         y="66.496246"
+         id="tspan4-66">CCR1 = PERIPWM</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#121411;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="235.43204"
+         y="75.315697"
+         id="tspan8">(t3 always ON)</tspan></text>
+    <rect
+       style="fill:#121411;fill-opacity:0;stroke:#020100;stroke-width:1.09048;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-5-0"
+       width="65.426109"
+       height="21.421585"
+       x="202.73514"
+       y="86.122208" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;fill:#121411;fill-opacity:1;stroke:#020100;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="235.4691"
+       y="94.283745"
+       id="text3-54-0"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#121411;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="235.4691"
+         y="94.283745"
+         id="tspan4-66-2">CCR2 = taux</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#121411;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="235.4691"
+         y="103.1032"
+         id="tspan8-1">(t2 PWM signal)</tspan></text>
+    <rect
+       style="fill:#121411;fill-opacity:0;stroke:#020100;stroke-width:1.09048;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-5-8"
+       width="65.426109"
+       height="21.421585"
+       x="202.47523"
+       y="30.922976" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;fill:#121411;fill-opacity:1;stroke:#020100;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="235.21188"
+       y="39.063629"
+       id="text3-54-8"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#121411;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="235.21188"
+         y="39.063629"
+         id="tspan8-0">t1 &amp; t4 BLOCKED</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#121411;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="235.21188"
+         y="47.88308"
+         id="tspan9">(always OFF)</tspan></text>
+    <rect
+       style="fill:#121411;fill-opacity:0;stroke:#020100;stroke-width:1.09048;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-5-6"
+       width="65.426109"
+       height="21.421585"
+       x="203.34296"
+       y="141.1483" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;fill:#121411;fill-opacity:1;stroke:#020100;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="236.07961"
+       y="149.28896"
+       id="text3-54-2"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#121411;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="236.07961"
+         y="149.28896"
+         id="tspan4-66-6">CCR1 = taux</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#121411;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="236.07961"
+         y="158.1084"
+         id="tspan8-04">(t1 PWM signal)</tspan></text>
+    <rect
+       style="fill:#121411;fill-opacity:0;stroke:#020100;stroke-width:1.09048;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-5-0-2"
+       width="65.426109"
+       height="21.421585"
+       x="203.38271"
+       y="168.91492" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;fill:#121411;fill-opacity:1;stroke:#020100;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="236.11667"
+       y="177.07645"
+       id="text3-54-0-1"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#121411;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="236.11667"
+         y="177.07645"
+         id="tspan4-66-2-4">CCR2 = PERIPWM</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#121411;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="236.11667"
+         y="185.89589"
+         id="tspan8-1-6">(t4 always ON)</tspan></text>
+    <rect
+       style="fill:#121411;fill-opacity:0;stroke:#020100;stroke-width:1.09048;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-5-8-3"
+       width="65.426109"
+       height="21.421585"
+       x="203.1228"
+       y="113.71564" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;fill:#121411;fill-opacity:1;stroke:#020100;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="235.85945"
+       y="121.8563"
+       id="text3-54-8-4"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#121411;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="235.85945"
+         y="121.8563"
+         id="tspan8-0-6">t2 &amp; t3 BLOCKED</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#121411;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="235.85945"
+         y="130.67575"
+         id="tspan9-9">(always OFF)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;fill:#121411;fill-opacity:1;stroke:#020100;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="40.734341"
+       y="80.955078"
+       id="text3-8"><tspan
+         sodipodi:role="line"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#121411;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="40.734341"
+         y="80.955078"
+         id="tspan4-5">resultats &lt;= 2048</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;font-family:Futura-Bold;-inkscape-font-specification:Futura-Bold;fill:#121411;fill-opacity:1;stroke:#020100;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="41.312206"
+       y="142.47621"
+       id="text3-8-9"><tspan
+         sodipodi:role="line"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#121411;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="41.312206"
+         y="142.47621"
+         id="tspan4-5-4">resultats &gt; 2048</tspan></text>
+    <path
+       style="fill:#121411;fill-opacity:0;stroke:#020100;stroke-width:1.24355;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11)"
+       d="m 177.89541,69.755971 c 0,0 2.20833,-27.91891 20.31669,-27.91891"
+       id="path10" />
+    <path
+       style="fill:#121411;fill-opacity:0;stroke:#020100;stroke-width:1.2;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13)"
+       d="m 193.32553,80.412834 c 0,0 1.37299,0.31462 5.82237,-3.689824"
+       id="path12"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#121411;fill-opacity:0;stroke:#020100;stroke-width:1.2;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13-3)"
+       d="m 193.0882,85.117328 c 0,0 1.68761,-0.157309 6.13699,3.847131"
+       id="path12-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#121411;fill-opacity:0;stroke:#020100;stroke-width:1.24355;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11-6)"
+       d="m 178.41225,151.00138 c 0,0 2.20833,27.91891 20.31669,27.91891"
+       id="path10-4" />
+    <path
+       style="fill:#121411;fill-opacity:0;stroke:#020100;stroke-width:1.2;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13-7)"
+       d="m 193.84237,140.34452 c 0,0 1.37299,-0.31462 5.82237,3.68982"
+       id="path12-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#121411;fill-opacity:0;stroke:#020100;stroke-width:1.2;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13-3-6)"
+       d="m 193.60504,135.64002 c 0,0 1.68761,0.15731 6.13699,-3.84713"
+       id="path12-3-1"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
