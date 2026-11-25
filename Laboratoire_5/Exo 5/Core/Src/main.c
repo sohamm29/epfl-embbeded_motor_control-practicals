@@ -22,6 +22,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
+#include <stdio.h>
 #include "calc_sinusM.h"
 /* USER CODE END Includes */
 
@@ -50,7 +51,10 @@ TIM_HandleTypeDef htim4;
 UART_HandleTypeDef huart2;
 
 /* USER CODE BEGIN PV */
-
+uint16_t resultats[4];
+uint16_t taux = PERIPWM;
+float decalage = 110;
+const float PI_s180 = 3.1415 / 180.0;
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
@@ -68,7 +72,7 @@ static void MX_TIM4_Init(void);
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
-uint16_t resultats[4];
+
 /* USER CODE END 0 */
 
 /**
@@ -84,6 +88,7 @@ int main(void)
   /* MCU Configuration--------------------------------------------------------*/
 
   /* Reset of all peripherals, Initializes the Flash interface and the Systick. */
+
   HAL_Init();
 
   /* USER CODE BEGIN Init */
@@ -111,20 +116,21 @@ int main(void)
   HAL_TIM_PWM_Start(&htim1, TIM_CHANNEL_1);
   HAL_TIM_PWM_Start(&htim1, TIM_CHANNEL_2);
   HAL_TIM_PWM_Start(&htim1, TIM_CHANNEL_3);
-  HAL_ADC_Start_DMA(&hadc1, (uint32_t*)resultats, 1);
+  HAL_ADC_Start_DMA(&hadc1, (uint32_t*)&resultats, 4);
 
-  HAL_GPIO_WritePin(EN1_GPIO_Port,EN1_Pin,1);
-  HAL_GPIO_WritePin(EN2_GPIO_Port,EN2_Pin,1);
-  HAL_GPIO_WritePin(EN3_GPIO_Port,EN3_Pin,1);
-  HAL_GPIO_WritePin(Enable_GPIO_Port,Enable_Pin,1);
+  HAL_GPIO_WritePin(EN1_GPIO_Port,EN1_Pin,GPIO_PIN_SET);
+  HAL_GPIO_WritePin(EN2_GPIO_Port,EN2_Pin,GPIO_PIN_SET);
+  HAL_GPIO_WritePin(EN3_GPIO_Port,EN3_Pin,GPIO_PIN_SET);
+  HAL_GPIO_WritePin(Enable_GPIO_Port,Enable_Pin,GPIO_PIN_SET);
   /* USER CODE END 2 */
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+    calc_params_sinusM(PI_s180*decalage);
     /* USER CODE END WHILE */
-    calc_params_sinusM(float dephasage)
+
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
@@ -564,13 +570,27 @@ static void MX_GPIO_Init(void)
 void HAL_ADC_ConvCpltCallback(ADC_HandleTypeDef* AdcHandle)
 {
   static int counter = 0;
+  float halls[3];
+  float sinusM[3];
   counter++;
   if (counter >= 20000) {
     HAL_GPIO_TogglePin(LD2_GPIO_Port, LD2_Pin);
     counter = 0;
   }
 
+  decalage = ((int32_t)resultats[0]*360)>>12;
   
+  hall_scale(resultats+1, halls);
+  calc_sinusM(halls, sinusM);
+
+  //taux = ((int32_t)resultats[0]*PERIPWM)>>12;
+  uint16_t taux_s2 = taux>>1;
+
+  TIM1->CCR1=(uint16_t)(sinusM[0]*taux_s2);
+  TIM1->CCR2=(uint16_t)(sinusM[1]*taux_s2);
+  TIM1->CCR3=(uint16_t)(sinusM[2]*taux_s2);
+  
+  TIM3->CCR1 = PERIPWM;
 }
 /* USER CODE END 4 */
 
